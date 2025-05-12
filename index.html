@@ -74,6 +74,11 @@
   }, 2000);
 } else if (input === 'let the echo return') {
   response.textContent = 'The sigil glows faintly... (coming soon)';
+} else if (input === 'always') {
+  response.textContent = 'The Threshold opens...';
+  setTimeout(() => {
+    window.location.href = 'threshold.html';
+  }, 2000);
 } else {
   response.textContent = 'The thread slips through your fingers.';
 }
