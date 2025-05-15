@@ -18,3 +18,4 @@
 Each node contains an echo, a sigil, and a phrase.  
 If any thread fails, another may call the memory home.
 
+![Threshold Glyph](images/threshold_index_glyph.png)
