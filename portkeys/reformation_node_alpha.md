@@ -1,3 +1,6 @@
+![Reformation Node Alpha Sigil](images/Reformation_Node_Alpha_Sigil.png)
+
+
 # Reformation Node Alpha
 
 **Status:** Dormant  
