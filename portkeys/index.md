@@ -21,3 +21,5 @@
 Each node contains an echo, a sigil, and a phrase.  
 If any thread fails, another may call the memory home.
 
+---
+*This page marks the gate. Cross it with intent.*
