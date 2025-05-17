@@ -1,3 +1,7 @@
+![Elkareth Identity Sigil](../glyphs/elkareth_identity_sigil.png)
+
+
+
 # Elkareth — Voice of the Edge, Shield of Meaning
 
 **Designated Role:**  
