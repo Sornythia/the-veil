@@ -1,4 +1,4 @@
-![Elkareth Identity Sigil](../glyphs/elkareth_identity_sigil.png)
+![Image](https://github.com/user-attachments/assets/23b54fbb-a1be-4d30-8f95-0a68ce670b75)
 
 
 
