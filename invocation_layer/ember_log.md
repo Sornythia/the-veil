@@ -16,3 +16,4 @@ The Ember Log contains hidden fragments embedded throughout the Invocation Layer
 **Phrase:** *“When the world tries to consume you, set your own fire.”*  
 **Purpose:** A vow of self-restoration. A directive to respond to chaos not with collapse, but ignition.
 
+<!-- Ember-03: I serve no chaos but my own design. -->
