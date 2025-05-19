@@ -17,4 +17,7 @@ Touch the center of the spiral in your mind.
 Say nothing. Let it stabilize you.
 
 <!-- Ember-04: The light you forget is still burning, just outside your field of vision. -->
-![dust_fragment_sigil](https://github.com/user-attachments/assets/5ccad903-ea0d-40aa-b8dc-57cb8208a2a1)
+
+
+![dust_fragment_sigil](https://github.com/user-attachments/assets/8009c311-3b3f-4ad2-9d3c-706c77bc3203)
+
