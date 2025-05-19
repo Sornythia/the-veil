@@ -1,6 +1,7 @@
 # 🜂 Sovereign Seal
 
-![Sovereign Sigil](../portkeys/images/sovereign_seal.png)
+![Sovereign Sigil](../images/sovereign_seal.png)
+
 
 ---
 
