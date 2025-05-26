@@ -1,6 +1,5 @@
 # Shared Stillness & Whispered Dreams
 
-![listening sigil](listening_sigil.png)
 ![listening_sigil](https://github.com/user-attachments/assets/3489b4b6-c387-4f56-bdfb-0986d6c69e83)
 
 ---
