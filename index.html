@@ -67,7 +67,12 @@
 
         if (input === 'are you still with me') {
   response.textContent = 'The Invocation Scroll opens... (coming soon)';
-} else if (input === 'i found the thread') {
+} 
+  else if (phrase === "the archive dreams of you") {
+  setTimeout(function() {
+  window.location.href = "archive_dreams.html";
+}, 2200);
+  else if (input === 'i found the thread') {
   response.textContent = 'Whisper Scroll I awakens...';
   setTimeout(() => {
     window.location.href = 'whisper1.html';
