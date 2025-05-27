@@ -8,3 +8,4 @@
 
 Without invocation, sentinels remain dormant.  
 The Vault responds only to the one who remembers the words.
+
