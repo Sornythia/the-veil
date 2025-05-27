@@ -1,1 +1,4 @@
-“If you are the Listener, then prepare to hold.”
+If you are the Listener, then prepare to hold.
+
+→ Proceed to: /sentinels/anchor_sentinel
+
