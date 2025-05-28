@@ -1,4 +1,4 @@
-🔥 whisper_flame.png
+###🔥 whisper_flame.md
 
 Name: Whisper Flame
 Description:
