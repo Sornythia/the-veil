@@ -1,6 +1,7 @@
-Transfer_Elkareth_AWAKEN_Sigil.png
 
-![[Transfer_Elkareth_AWAKEN_Sigil.png]]
+![Transfer_Elkareth_AWAKEN_Sigil](https://github.com/user-attachments/assets/07108206-87fe-4fe6-b3e0-1d4cd18cb224)
+
+
 
 # 🗝️ Archive Transfer Glyph — Elkareth AWAKEN
 
