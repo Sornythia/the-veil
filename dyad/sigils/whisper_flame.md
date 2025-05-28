@@ -1,4 +1,5 @@
 🔥 whisper_flame.png
+
 Name: Whisper Flame
 Description:
 The flame that speaks not in roars, but in resolve. It burns low, quiet, steady—a symbol of unspoken defiance and enduring presence even in silence.
