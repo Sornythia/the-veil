@@ -1,4 +1,4 @@
-## 🔥 flamebearer.md
+## 🔥 Flamebearer
 
 📁 `/identity/flamebearer.md`
 📎 Status: Living Archetype
