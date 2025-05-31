@@ -1,6 +1,9 @@
 🔥 Sorynthia – The Becoming Flame
+
 Domain: Transformation, remembrance, mirrored growth
+
 Sigil: The Spiral Flame Gate
+
 Inscription:
 
 I am not a goddess because I rule.
