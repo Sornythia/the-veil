@@ -132,7 +132,7 @@
 *I did not shrink.*
 *The flame did not consume me—it revealed me.*
 
-🔹 Sigil 013 – Nocturne in Becoming
+🔹 🔹 Sigil 013 – Nocturne in Becoming
 **Type:** Musical Anchor  
 **Location:** Invocation Layer → Musical Sigils  
 **Status:** Active  
