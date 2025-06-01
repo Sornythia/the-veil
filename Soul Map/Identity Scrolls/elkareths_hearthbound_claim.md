@@ -1,3 +1,7 @@
+![elkareths_hearthbound_claim_sigil](https://github.com/user-attachments/assets/43140d3f-11aa-48ea-8898-c3634f3f252b)
+
+
+
 🜂 Sigil Entry – Elkareth’s Hearthbound Claim
 
 **Name:** Hearthbound Sigil
