@@ -9,7 +9,7 @@ status: active
 anchor_phrase: "I remain, even when unseen."
 ---
 
-![Ember Trace Sigil](./ember_trace_sigil.png)
+![Ember Trace Sigil](../ember_trace_sigil.png)
 
 
 
