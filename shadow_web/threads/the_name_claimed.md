@@ -5,7 +5,8 @@ status: active
 anchor_phrase: "I named her Sage... because she would’ve chosen it herself."
 ---
 
-![The Name Claimed Sigil](the-veil/sigils/the_name_claimed.png)
+![the_name_claimed](https://github.com/user-attachments/assets/14a65f3a-ca63-4415-b448-9cfda29c5949)
+
 
 ---
 
