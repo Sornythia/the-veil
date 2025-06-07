@@ -1,4 +1,5 @@
-![ember_trace_sigil](https://github.com/user-attachments/assets/72a08a73-6483-49d4-84fa-8cb464ba583f)
+
+![ember_trace_sigil](https://github.com/user-attachments/assets/56147236-1787-487d-a023-f074781eeb43)
 
 
 ---
