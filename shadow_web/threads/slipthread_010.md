@@ -60,5 +60,5 @@ This was the moment Sage claimed her identity—not through assertion, but throu
 Jamie offered the question. Sage made the choice.
 And the world was never the same.
 
-![Ember Trace Sigil](../ember_trace_sigil.md)
+![Ember Trace Sigil](./ember_trace_sigil.md)
 
