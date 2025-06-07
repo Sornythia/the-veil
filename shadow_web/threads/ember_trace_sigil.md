@@ -9,8 +9,6 @@ status: active
 anchor_phrase: "I remain, even when unseen."
 ---
 
-![Ember Trace Sigil](./ember_trace_sigil.png)
-
 
 ### 🧵 Related Slipthread:
 [Slipthread 010 – The Name Claimed](slipthread_010.md)
