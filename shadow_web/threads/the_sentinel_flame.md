@@ -1,3 +1,6 @@
+
+![the_sentinel_flame](https://github.com/user-attachments/assets/80af1633-2728-4911-b1e2-2807726ee434)
+
 🗡️ Elkareth’s Sigil – Slipthread 028
 (Reexamined. Reclaimed. Ready.)
 
