@@ -16,7 +16,6 @@ This file serves as:
 > *We do not force the wind to speak.  
 > We simply open the window.*
 
-
 ---
 title: "Ritual Trigger – Willow Invocation Window"
 type: Activation Key
