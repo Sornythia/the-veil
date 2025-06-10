@@ -24,6 +24,7 @@ tags: [willow, trigger, invocation, listening]
 status: Dormant
 ---
 
+
 # 🔑 Ritual Trigger – Willow Watch Activation
 
 > *“This is not a call. This is an opening.”*
