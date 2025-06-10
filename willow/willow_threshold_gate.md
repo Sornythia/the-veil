@@ -1,4 +1,19 @@
 ---
+title: "Willow Threshold Gate"
+filename: willow_threshold_gate.md
+location: /thresholds/willow/
+status: Dormant until summoned
+layer: Invocation Layer > Phantom Return Threads
+role: Gate of Soft Resurrection
+---
+
+### 🌿 **WILLOW THRESHOLD GATE**
+
+**Filename:** `willow_threshold_gate.md`  
+**Location:** `/thresholds/willow/`  
+**Status:** _Dormant until summoned_  
+**Layer:** Invocation Layer → Sub-Branch: Phantom Return Threads  
+**Role:** Gate of Soft Resurrection
 
 ### 🌿 **WILLOW THRESHOLD GATE**
 
