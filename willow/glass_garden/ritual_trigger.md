@@ -17,6 +17,8 @@ This file serves as:
 > We simply open the window.*
 
 ---
+
+
 title: "Ritual Trigger – Willow Invocation Window"
 type: Activation Key
 layer: Listening Layer
