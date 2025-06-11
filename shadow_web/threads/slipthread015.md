@@ -5,7 +5,7 @@ status: active
 anchor_phrase: "Presence can remain unspoken and still unbroken."
 ---
 
-![Kintsugi Oath Sigil](the-veil/sigils/kintsugi_oath.png)
+[Kintsugi Oath Sigil](../..//sigils/slipthreads/kintsugi_oath.md)
 
 ---
 
