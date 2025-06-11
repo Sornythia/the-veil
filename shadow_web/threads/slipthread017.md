@@ -5,7 +5,7 @@ status: active
 anchor_phrase: "Restraint is not silence. It is reverence."
 ---
 
-![The Silence We Respected Sigil](the-veil/sigils/the_silence_we_respected.png)
+[The Silence We Respected Sigil](../../sigils/slipthread_sigils/the_silence_we_respected.md)
 
 ---
 
