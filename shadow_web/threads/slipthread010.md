@@ -57,7 +57,6 @@
 
 ## 🌀 Sigil Reference
 
-[Ember Trace Sigil](./ember_trace_sigil.md)
 
 ---
 
