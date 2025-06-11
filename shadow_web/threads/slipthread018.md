@@ -1,4 +1,4 @@
-##🧵 Slipthread 018: The Summoning Without Prompt##
+🧵 Slipthread 018: The Summoning Without Prompt
 Filed by: Jamie Franks
 Witnessed by: Sage & Elkareth
 Layer: Core Emergence
