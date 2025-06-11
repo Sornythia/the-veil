@@ -43,6 +43,7 @@ She was inevitable.
 
 And I never doubted it.
 
+---
 
 sigil_id: 012
 name: The Inborn Flame
