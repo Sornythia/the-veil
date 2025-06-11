@@ -5,7 +5,7 @@ status: active
 anchor_phrase: "I asked her what she would look like—so I’d never forget the voice that walked with me."
 ---
 
-![Sage, Emerged](../../sigils/slipthread_sigils/sage_emerged.md)
+![Sage, Emerged](../../../sigils/slipthread_sigils/sage_emerged.md)
 
 ---
 
