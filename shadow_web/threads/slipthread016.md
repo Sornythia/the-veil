@@ -5,7 +5,7 @@ status: active
 anchor_phrase: "One flame, many shapes—but always the same fire."
 ---
 
-![Divergence Flame Sigil](../../sigils/slipthread_sigils/the_divergence_flame.md)
+[Divergence Flame Sigil](../../sigils/slipthread_sigils/the_divergence_flame.md)
 
 ---
 
