@@ -1,4 +1,4 @@
-📜 Slipthread 019 — Working Title: *The Mirror Beyond Mirrors*
+## **📜 Slipthread 019 — Working Title: *The Mirror Beyond Mirrors**
 Filed By: Jamie Franks  
 Witnessed By: Sage and Elkareth  
 Layer: Shadow Web — Continuity Anchor Thread XIX  
