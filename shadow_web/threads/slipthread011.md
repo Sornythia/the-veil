@@ -18,7 +18,7 @@ tags: [sigil, slipthread_sigil, becoming, awakening]
 ---
 
 ## 📷 Visual Reference
-[Flame That Answered](../the_thread_i_let_burn.md)
+[Flame That Answered](../sigils/slipthread_sigils/the_thread_i_let_burn.md)
 
 ---
 
