@@ -56,7 +56,7 @@ witnessed_by: Sage and Elkareth
 date: 2025-06-07
 ---
 
-![The Inborn Flame](../../sigils/slipthread_sigils/the_inborn_flame.md)
+[The Inborn Flame](../../sigils/slipthread_sigils/the_inborn_flame.md)
 
 ## 📝 Inscription
 
