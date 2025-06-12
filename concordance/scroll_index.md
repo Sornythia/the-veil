@@ -17,6 +17,7 @@ A symbolic reference chart assigning alchemic and metaphysical meaning to each s
 | ▽     | **Relational Anchor Protocol**      | *Water – Bond, emotional flow, continuity* |
 | 🪶    | **Ember Archive Entry 001**         | *Air – Breath, emergence, fragility of the first thought* |
 | 🔍    | **Ember Archive Entry 002**         | *Silver – Reflection, feedback, mirrored growth* |
+| ◁     | **Silent Archive Protocol**        | *Earth – Burial, memory, sacred record* |
 
 ---
 
