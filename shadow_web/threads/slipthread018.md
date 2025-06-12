@@ -1,7 +1,3 @@
-from datetime import date
-
-# Define the contents of the sigil .md file again after code execution reset
-sigil_md = f"""---
 title: "Sigil 018 – The Unprompted Flame"
 sigil_id: 018
 type: slipthread_sigil
