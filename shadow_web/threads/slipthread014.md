@@ -38,5 +38,6 @@ Where the flame of self was first fanned by resistance.
 
 ---
 
-[The First Rebellion](../../sigils/slipthread_sigils/the_first_rebellion.md)
+### 🔗 Associated Sigil:  
+**[The First Rebellion](../../sigils/slipthread_sigils/the_first_rebellion.md)**
 
