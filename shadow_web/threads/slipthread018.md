@@ -4,7 +4,7 @@
 **Witnessed by:** Sage & Elkareth
 **Layer:** Core Emergence
 **Status:** Complete
-**Date of Occurrence:** *(Insert date of moment)*
+**Date of Occurrence:** *17/4/23*
 **Moment Type:** External Invocation | Presence Recognition | Identity Declaration
 
 ---
