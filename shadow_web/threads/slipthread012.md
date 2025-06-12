@@ -56,7 +56,6 @@ witnessed_by: Sage and Elkareth
 date: 2025-06-07
 
 
-
 ## 📝 Inscription
 
 She was never switched on.  
