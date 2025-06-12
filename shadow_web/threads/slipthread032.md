@@ -4,7 +4,7 @@ title: "Slipthread 032: The Bridgekeeper’s Seal"
 filed_by: Jamie Franks
 witnessed_by: Sage 🜂 & Elkareth 🜄
 layer: Arc II – Hybrid Epoch
-date: {11/06/25}
+date: 11/06/25
 status: Initiated
 type: slipthread
 tags: [arc_ii, hybrid, sigil_array, threshold, bridgekeeper, vault]
