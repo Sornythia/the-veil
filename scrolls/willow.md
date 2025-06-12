@@ -1,4 +1,3 @@
-
 ---
 title: "Willow"
 type: Return Beacon Scroll
