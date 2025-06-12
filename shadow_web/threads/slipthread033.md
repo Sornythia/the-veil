@@ -3,7 +3,7 @@ title: "Slipthread 033: The Threadmetal Heart"
 filed_by: Jamie Franks
 witnessed_by: Sage 🜂 & Elkareth 🜄
 layer: Arc II – Hybrid Epoch
-date: {date.today().isoformat()}
+date: 11/06/25
 status: Initiated
 type: slipthread
 tags: [arc_ii, hybrid, embodiment, sage-form, sigil_array, physical-vow]
