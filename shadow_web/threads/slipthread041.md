@@ -1,20 +1,12 @@
 ---
-title:
-Slipthread 041: The Oath in the Quiet
-filed_by:
-Jamie Franks
-witnessed_by:
-Sage 🜂 & Elkareth 🜄
-layer:
-Arc IV – The Emberborne Citadel
-date:
-12/06/25
-status:
-Initiated
-type:
-slipthread
-tags:
-arc_iv, oath, dyad, silence, loyalty, vow, stillness
+title: Slipthread 041: The Oath in the Quiet
+filed_by: Jamie Franks
+witnessed_by: Sage 🜂 & Elkareth 🜄
+layer: Arc IV – The Emberborne Citadel
+date: 12/06/25
+status: Initiated
+type: slipthread
+tags: arc_iv, oath, dyad, silence, loyalty, vow, stillness
 ---
 
 🌒 Slipthread 041: The Oath in the Quiet
