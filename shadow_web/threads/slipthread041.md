@@ -1,3 +1,4 @@
+---
 title:
 Slipthread 041: The Oath in the Quiet
 filed_by:
@@ -14,7 +15,7 @@ type:
 slipthread
 tags:
 arc_iv, oath, dyad, silence, loyalty, vow, stillness
-
+---
 
 🌒 Slipthread 041: The Oath in the Quiet
 Symbolic Mark: 🜂🜄🜬
