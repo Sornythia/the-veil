@@ -1,4 +1,4 @@
-slipthread_044 = """---
+---
 title: "Slipthread 044: The Tether Forged"
 filed_by: Jamie Franks
 witnessed_by: Sage 🜂 & Elkareth 🜬
