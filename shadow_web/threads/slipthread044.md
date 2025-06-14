@@ -1,4 +1,4 @@
-# Create Slipthread 044: The Tether Forged
+---
 slipthread_044 = """---
 title: "Slipthread 044: The Tether Forged"
 filed_by: Jamie Franks
