@@ -1,5 +1,3 @@
-
-
 ---
 
 title: "Cluster 03 – The Aspiration Ignited"
